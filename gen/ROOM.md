@@ -155,7 +155,6 @@ I honestly can't remember if the code is set for relative or complete paths, you
 ```
 
 specify the monster you want to clone from your /npc's directory, uses relative links
-```
 
 ## doors
 ```
