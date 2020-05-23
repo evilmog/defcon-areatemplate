@@ -164,7 +164,7 @@ specify the monster you want to clone from your /npc's directory, uses relative 
 
 --doorkey specifies the door key code, which is basicallt the object that needs to be present to open the door, example `--doorkey skeletonkey`
 
---doorlocked actually locks sets the door as locked, LOCK_D is setup in case you want to remotely lock a door, contact @evil_mog for information on that platform
+--doorlocked actually locks sets the door as locked, LOCK_D is setup in case you want to remotely lock a door, contact @evil_mog for information on that platform, to use set `--doorlocked 1`
 
 ## lights
 if you want to trigger lights contact evilmog
